@@ -1,3 +1,5 @@
+![Retro Header](../images/vuln.webp)
+
 # Introduction
 
 This walkthrough demonstrates the complete exploitation of the Vulnlab’s `Retro` machine, which simulates a Windows Active Directory environment with Certificate Services vulnerabilities. The target machine represents a domain controller running Windows Server 2022 with various services exposed, including `SMB`, `LDAP`, `Kerberos`, and `Active Directory Certificate Services (ADCS)`.
