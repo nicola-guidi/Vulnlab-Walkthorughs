@@ -343,7 +343,7 @@ This document provides crucial intelligence about a `pre-created computer accoun
 
 The note about the "pre-created computer account" suggests this system uses legacy `Pre-Windows 2000` compatibility mode for computer accounts. In this configuration, computer account passwords are set to the lowercase computer name without the trailing `$`. We can confirm this by using `BloodHound`.
 
-![Screenshot 2025-08-23 152535.png](attachment:c635f1c9-8493-458d-b406-f07145f1aae0:Screenshot_2025-08-23_152535.png)
+![Retro Header](images/bh.png)
 
 ### Understanding Pre-Windows 2000 Computer Accounts
 
