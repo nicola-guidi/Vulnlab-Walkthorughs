@@ -1,3 +1,5 @@
+![Retro Header](../images/vuln.webp)
+
 # Introduction
 
 The `Baby` machine is a Windows Active Directory environment that demonstrates common misconfigurations found in enterprise networks. The attack path involves LDAP enumeration to discover user accounts, identifying a user with a default password stored in their description field, leveraging Kerberos authentication to gain initial access, and finally exploiting backup privileges to dump the entire Active Directory database for complete domain compromise.
