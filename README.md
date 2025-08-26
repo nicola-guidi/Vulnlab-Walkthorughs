@@ -1,8 +1,8 @@
+![Vulnlab Walkthroughs](images/vuln.webp)
 
+# Vulnlab Walkthroughs
 
-# Vulnhub Walkthroughs
-
-This repository contains my personal collection of walkthroughs for machines from **Vulnhub** (and similar platforms).  
+This repository contains my personal collection of walkthroughs for machines from **Vulnlab** (and similar platforms).  
 Each write-up demonstrates the full exploitation path of a vulnerable machine, from initial reconnaissance to privilege escalation and final root/system access.  
 
 The goal of this repository is to provide:  
