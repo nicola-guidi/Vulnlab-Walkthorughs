@@ -10,6 +10,7 @@ This walkthrough demonstrates the complete exploitation of the Vulnlab’s `Retr
 - **Domain**: `retro.vl`
 - **Domain Controller**: `DC.retro.vl`
 - **Operating System**: `Windows Server 2022 Build 20348`
+- **Difficulty:** `Easy`
 
 ### Attack Path Overview
 
