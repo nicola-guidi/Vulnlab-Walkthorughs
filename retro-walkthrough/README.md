@@ -152,7 +152,6 @@ SMB         10.10.83.167    445    DC               NETLOGON                    
 SMB         10.10.83.167    445    DC               Notes
 SMB         10.10.83.167    445    DC               SYSVOL                          Logon server share
 SMB         10.10.83.167    445    DC               Trainees        READ
-
 ```
 
 The enumeration reveals that the `Trainees` share is readable by guest users, providing an immediate avenue for information gathering without authentication.
@@ -305,7 +304,6 @@ SMB         10.10.83.167    445    DC               NETLOGON        READ        
 SMB         10.10.83.167    445    DC               Notes           READ
 SMB         10.10.83.167    445    DC               SYSVOL          READ            Logon server share
 SMB         10.10.83.167    445    DC               Trainees        READ
-
 ```
 
 With authenticated access, we can now read the `Notes` share, which was previously inaccessible.
